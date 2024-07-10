@@ -1,3 +1,6 @@
 streamlit
 pandasai==0.6.0
 python-dotenv
+pandas
+google-generativeai
+openpyxl
