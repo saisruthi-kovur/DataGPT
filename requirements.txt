@@ -1,6 +1,6 @@
 streamlit==1.10.0
 pandas==1.5.3
-numpy==1.21.2
+numpy==1.23.2
 google-generativeai
 openpyxl
 pandasai==0.6.0
