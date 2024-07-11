@@ -37,8 +37,9 @@ pip install -r requirements.txt
   - Create a secrets.toml file in the .streamlit directory and add your API key.
     - Configure API key
       ```
-      mkdir .streamlit
-      echo "[API]\nAPI_KEY = \"your-google-generativeai-api-key\"" > .streamlit/secrets.toml
+      mkdir -p .streamlit
+      echo "[API]" > .streamlit/secrets.toml
+      echo 'API_KEY = "your-google-generativeai-api-key"' >> .streamlit/secrets.toml
       ```
 
 - Run the web application:
