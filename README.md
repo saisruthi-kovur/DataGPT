@@ -60,7 +60,7 @@ streamlit run app.py
   - Click the "Chat with Data" button to interact with the AI model based on the uploaded data.
   - The AI model will provide insights and answers related to your queries.
  
-## Credits
+## Reference
 This application was developed using: <br/>
 [Streamlit](https://streamlit.io/) <br/>
 [Pandas](https://pandas.pydata.org/) <br/>
